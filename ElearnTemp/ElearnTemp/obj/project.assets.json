@@ -10025,11 +10025,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\ElearnTemp.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\ElearnTemp.csproj",
       "projectName": "ElearnTemp",
-      "projectPath": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\ElearnTemp.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\ElearnTemp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

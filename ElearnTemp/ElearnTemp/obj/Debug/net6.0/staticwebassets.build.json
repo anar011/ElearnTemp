@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JiKdFzBZ7LObXmvu9AedTH/PsUr+0/3rU9yQjwOb3N8=",
+  "Hash": "Yh0Aa/yPzwm1a5pRRaWVT3uFaTjg9guBNhB16g3EgM0=",
   "Source": "ElearnTemp",
   "BasePath": "_content/ElearnTemp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ElearnTemp\\wwwroot",
       "Source": "ElearnTemp",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ElearnTemp.styles.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ElearnTemp.styles.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "ElearnTemp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ElearnTemp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ElearnTemp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElearnTemp.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElearnTemp.bundle.scp.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "ElearnTemp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElearnTemp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElearnTemp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\about_1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\about_1.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/about_1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_1.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_1.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_2.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_2.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_3.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_3.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_4.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_4.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_4.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_5.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_5.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_5.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_6.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_6.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_6.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_7.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_7.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_7.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_7.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_8.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_8.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_8.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_8.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_9.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_9.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_9.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_9.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_author_2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_author_2.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_author_2.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_author_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_author_3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\course_author_3.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/course_author_3.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_author_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\elearn.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\elearn.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/elearn.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elearn.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\featured.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\featured.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/featured.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\featured.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\featured_author.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\featured_author.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/featured_author.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\featured_author.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\home_logo.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\home_logo.png",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/home_logo.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home_logo.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\index.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\index.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/index.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\index.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\logo.png",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_1.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_1.svg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/milestone_1.svg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_1.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_2.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_2.svg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/milestone_2.svg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_2.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_3.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_3.svg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/milestone_3.svg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_3.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_4.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\milestone_4.svg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/milestone_4.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_4.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_1.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_1.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_2.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_2.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_3.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_3.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_4.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_4.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_4.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_5.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_5.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_5.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_6.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_6.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_6.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_7.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\news_7.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/news_7.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_7.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\play_big.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\play_big.png",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/play_big.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\play_big.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_1.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/teacher_1.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_2.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/teacher_2.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_3.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/teacher_3.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_4.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_4.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/teacher_4.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_5.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_5.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/teacher_5.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_6.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\images\\teacher_6.jpg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "images/teacher_6.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\about.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\about.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "js/about.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\js\\about.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\contact.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\contact.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\courses.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\courses.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "js/courses.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\js\\courses.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\custom.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\jquery-3.2.1.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "js/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\news.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\js\\news.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "js/news.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\news.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\easing\\easing.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\easing\\easing.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/easing/easing.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff2",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/greensock/animation.gsap.min.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\animation.gsap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/greensock/ScrollToPlugin.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/greensock/TimelineMax.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\TimelineMax.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/greensock/TweenMax.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\TweenMax.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/animate.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.carousel.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.carousel.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.theme.default.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.video.play.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/parallax-js-master/parallax.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\parallax-js-master\\parallax.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/scrollmagic/ScrollMagic.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\video-js\\video.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\video-js\\video.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/video-js/video.min.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\video-js\\video.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\video-js\\video-js.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\video-js\\video-js.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/video-js/video-js.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\video-js\\video-js.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\video-js\\Youtube.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\plugins\\video-js\\Youtube.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "plugins/video-js/Youtube.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\video-js\\Youtube.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\about.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\about.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/about.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\about.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\about_responsive.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\about_responsive.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/about_responsive.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\about_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/bootstrap4/bootstrap.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\bootstrap4\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/bootstrap4/bootstrap.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\bootstrap4\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\bootstrap4\\popper.js",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/bootstrap4/popper.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\bootstrap4\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\contact.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\contact.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/contact.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\contact.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\contact_responsive.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\contact_responsive.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/contact_responsive.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\contact_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\courses.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\courses.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/courses.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\courses.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\courses_responsive.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\courses_responsive.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/courses_responsive.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\courses_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\main_styles.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\main_styles.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/main_styles.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\main_styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\news.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\news.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/news.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\news.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\news_responsive.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\news_responsive.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/news_responsive.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\news_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\responsive.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\styles\\responsive.css",
       "SourceId": "ElearnTemp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\clone111\\ElearnTemp\\ElearnTemp\\ElearnTemp\\wwwroot\\",
       "BasePath": "_content/ElearnTemp",
       "RelativePath": "styles/responsive.css",
       "AssetKind": "All",
